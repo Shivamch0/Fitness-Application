@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/Technical-Shubham-tech/fitness-app/fork
-[pr]: https://github.com/Technical-Shubham-tech/fitness-app/compare
+[fork]: https://github.com/sanidhyy/fitness-app/fork
+[pr]: https://github.com/sanidhyy/fitness-app/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
